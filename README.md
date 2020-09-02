@@ -9,13 +9,13 @@ Have some GP in bank or inventory (Recommended at least 25k).
 
 ========
 
-Details:
+#### Details:  
 Walks to GE using webWalk  
 Buys the required ingredients with GP it finds in both inventory and bank.  
 Starts making the dough.  
 Once ingredients are empty it will sell the dough and buy more ingredients.  
 
-Possible future updates:
+#### Possible future updates:
 More detailed paint (Dough made, GP made etc.)  
 A GUI to set amount of dough you want to make  
 Use of condition sleeps until ingredients bought (still learning GE api ahah)  
