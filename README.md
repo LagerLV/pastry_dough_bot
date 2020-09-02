@@ -4,9 +4,8 @@ Discord: LagerLV#2187
 
 #### How to Start:
 
-Start almost anywhere, the bot should walk (Not from Karamja though)
-
-Have some GP in bank or inventory (Recommended at least 25k)
+Start almost anywhere, the bot should walk (Not from Karamja though).
+Have some GP in bank or inventory (Recommended at least 25k).
 
 ========
 
