@@ -2,7 +2,7 @@
 Brought by Lager from Osbot community - https://osbot.org/forum/profile/306714-lagerlv/
 Discord: LagerLV#2187
 
-###### How to Start:
+#### How to Start:
 
 Start almost anywhere, the bot should walk (Not from Karamja though)
 
